@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "166747091532",
+    "project_id": "block-chain-13f86",
+    "storage_bucket": "block-chain-13f86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166747091532:android:f5fe32d0a32e786d17bae9",
+        "android_client_info": {
+          "package_name": "com.example.block_chain"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHyoaxeaBvOs4M2bTXK6lcoZvVms8qjKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
